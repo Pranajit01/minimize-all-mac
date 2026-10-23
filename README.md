@@ -8,7 +8,7 @@ On macOS, there is no single default shortcut to minimize all open windows into 
 
 ## 📥 Option 1: Download & Install (No Terminal Required)
 
-1. Download **`Minimize-All-Mac.zip`** from the [Releases](https://github.com/pranajitdas/minimize-all-mac/releases) tab.
+1. Download **`Minimize-All-Mac.zip`** from the [Releases](https://github.com/Pranajit01/minimize-all-mac/releases) tab.
 2. Unzip it and drag **`Minimize All.app`** into your **Applications** folder.
 3. Double-click to open.
 
@@ -62,7 +62,7 @@ If you want to run from source or build the `.app` bundle yourself:
 ### 2. Setup
 ```bash
 # Clone the repository
-git clone https://github.com/pranajitdas/minimize-all-mac.git
+git clone https://github.com/Pranajit01/minimize-all-mac.git
 cd minimize-all-mac
 
 # Create virtual environment and install packages
