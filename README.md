@@ -6,6 +6,19 @@ On macOS, there is no single default shortcut to minimize all open windows into 
 
 ---
 
+## 💡 About The Project
+
+If you have ever moved from Windows (`Win + D`) to macOS, or simply work with dozens of open windows across browsers, code editors, and communication apps, you have likely noticed that macOS lacks a native shortcut to minimize everything at once:
+
+- **Show Desktop (`Fn + F11` / Trackpad gesture)**: Only temporarily slides windows to the screen edges. The moment you interact with any app, all the clutter snaps right back.
+- **`Cmd + Option + M`**: Only minimizes windows for the *single foreground app* you are currently focused on, leaving all background apps untouched.
+
+**Minimize All Mac** provides the missing feature:
+
+With one global shortcut (**`Control + Option + D`**) or a single click from the menu bar icon (**`⇲`**), it cleanly minimizes every visible application window directly into your Dock, giving you a fresh, distraction-free workspace in an instant.
+
+---
+
 ## 📥 Option 1: Download & Install (No Terminal Required)
 
 1. Download **`Minimize-All-Mac.zip`** from the [Releases](https://github.com/Pranajit01/minimize-all-mac/releases) tab.
