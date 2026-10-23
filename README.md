@@ -1,6 +1,12 @@
-# Minimize All Mac ⇲
+<p align="center">
+  <img src="assets/logo.png" width="140" height="140" alt="Minimize All Mac Logo">
+</p>
 
-A lightweight macOS menu bar utility that minimizes all open application windows all at once.
+<h1 align="center">Minimize All Mac ⇲</h1>
+
+<p align="center">
+  <strong>A lightweight macOS menu bar utility that minimizes all open application windows all at once.</strong>
+</p>
 
 On macOS, there is no single default shortcut to minimize all open windows into the Dock. This app adds that feature with a global keyboard shortcut and a menu bar icon.
 

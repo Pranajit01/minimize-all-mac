@@ -45,6 +45,6 @@ coll = COLLECT(
 app = BUNDLE(
     coll,
     name='Minimize All.app',
-    icon=None,
+    icon='icon.icns',
     bundle_identifier=None,
 )
